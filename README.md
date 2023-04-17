@@ -1,2 +1,3 @@
-# kopretinka_firmware
+# Kopretinka - Firmware
+
 ATMega328P firmware pro zavlažovací systém Kopretinka
